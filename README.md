@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shriti
 - - 🌱 I’m currently learning about data science and coding
-- 📫 How to reach me by @linkedin.com/in/shriti-chouksey-050b60206
+- 📫 How to reach me by linkedin.com/in/shriti-chouksey-050b60206
 - 😄 Pronouns: Miss
 
 <!---
